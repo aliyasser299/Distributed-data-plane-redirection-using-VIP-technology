@@ -1,5 +1,4 @@
 # Distributed-data-plane-redirection-using-VIP-technology
-## Distributed Data Plane Redirection Using VIP Technology
 
 A **high-availability service failover system** designed to maintain HTTP service availability even when an individual service fails while its server remains operational.
 
